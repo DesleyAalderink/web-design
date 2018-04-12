@@ -7,6 +7,7 @@ De basis functionaliteiten staan allemaal vermeld in de case.
 
 ## Eerste ontwerp
 ![homebefore]
+
 ![slidebefore]
 Ik begon met na te denken aan een layout. Voor desktop passen er mooi drie foto's naast elkaar.
 Ik heb gekozen om willekeurige foto's te gebruiken van de website picsum.photos.
@@ -16,15 +17,19 @@ In de slideshow kan er over het plaatje gehovered worden en dan zal de tekst ver
 
 ## Testen
 Ik heb mijn website met Chana en Servin getest en er kwamen een paar mooie resultaten uit:
+![feedback]
 
 * Het is niet duidelijk dat er over de images gehoverd kan worden
 * Het is niet consistent dat er eerst geen tekst is en dan met hoveren plotseling wel
 * Er staat nergens wat de site precies inhoudt.
+* Een preview voor de images
 
 
 ## Tweede ontwerp
 ![homeafter]
+
 ![slideafter]
+
 In het tweede ontwerp heb ik al het bovenstaande feedback geprobeerd te verwerken. Het verschil tussen mijn eerste ontwerp en mijn tweede ontwerp is best wel een verschil.
 Het tweede ontwerp is ook veel sterker en beter dan wat ik eerst had gemaakt. Als er over de sectie wordt gehovered dan zal het hele gedeelte groter worden. Op deze manier is het duidelijk dat zowel de tekst als plaatje bij elkaar hoort en dat er (door middel van een cursor) ook op geklikt kan worden. De layout is nu ook meer consistent vanwege de tekst die ik onder het plaatje stop. Op de homepage breekt de tekst af na 3 zinnen. De zin zal eindigen met drie puntjes. Dit laat zien dat er meer tekst verscholen is. Deze kan bereikt worden door een simpele klik. De pagina zelf heeft nu ook een opvallende titel die verteld wat de website is.
 
@@ -40,4 +45,5 @@ In de slideshow is de focus gestopt in de foto, daarna de tekst en daarna pas he
 [homeafter]: homeafter.jpg
 [slidebefore]: slidebefore.jpg
 [slideafter]: slideafter.jpg
+[feedbackafter]: feedback.jpg
 
