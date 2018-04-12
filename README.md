@@ -26,7 +26,7 @@ Ik heb mijn website met Chana en Servin getest en er kwamen een paar mooie resul
 ![homeafter]
 ![slideafter]
 In het tweede ontwerp heb ik al het bovenstaande feedback geprobeerd te verwerken. Het verschil tussen mijn eerste ontwerp en mijn tweede ontwerp is best wel een verschil.
-Het tweede ontwerp is ook veel sterker en beter dan wat ik eerst had gemaakt.
+Het tweede ontwerp is ook veel sterker en beter dan wat ik eerst had gemaakt. Als er over de sectie wordt gehovered dan zal het hele gedeelte groter worden. Op deze manier is het duidelijk dat zowel de tekst als plaatje bij elkaar hoort en dat er (door middel van een cursor) ook op geklikt kan worden. De layout is nu ook meer consistent vanwege de tekst die ik onder het plaatje stop. Op de homepage breekt de tekst af na 3 zinnen. De zin zal eindigen met drie puntjes. Dit laat zien dat er meer tekst verscholen is. Deze kan bereikt worden door een simpele klik. De pagina zelf heeft nu ook een opvallende titel die verteld wat de website is.
 
 ## Verwerkte Interface design principles
 * **06 One primary action per screen** - Op de homepage kan je alleen hoveren/klikken op een image en in de slider kan je alleen wisselen van slide of de slide uitzetten.
