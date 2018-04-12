@@ -34,6 +34,6 @@ neer te zetten waar de foto langzaam overgaat op slideshow.
 In de slideshow is de focus gestopt in de foto, daarna de tekst en daarna pas het icoon om het af te sluiten.
 * 13 Highlight, don't determine, with color - Ik gebruik geen kleur om highlights aan te tonen.
 
-[homebefore]: homebefore.png
-[homeafter]: homeafter.png
+[homebefore]: homebefore.jpg
+[homeafter]: homeafter.jpg
 
