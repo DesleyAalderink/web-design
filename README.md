@@ -3,12 +3,13 @@
 ## Case
 Ik heb gekozen voor de eerste case.
 De gebruiker wil door een overzicht van foto's scrollen en info lezen, en een foto groot kunnen bekijken en als slideshow kunnen zien.
-De basis functionaliteiten staan allemaal vermeld in de case.
+De basis functionaliteiten staan allemaal vermeld in de case. Ik zal deze ontwerpen/uitwerken en testen bij twee klasgenoten.
 
 ## Eerste ontwerp
 ![homebefore]
 
 ![slidebefore]
+
 Ik begon met na te denken aan een layout. Voor desktop passen er mooi drie foto's naast elkaar.
 Ik heb gekozen om willekeurige foto's te gebruiken van de website picsum.photos.
 Toen alles geplaats was in drie rijen begon ik na te denken over de optie voor de slideshow.
@@ -17,6 +18,7 @@ In de slideshow kan er over het plaatje gehovered worden en dan zal de tekst ver
 
 ## Testen
 Ik heb mijn website met Chana en Servin getest en er kwamen een paar mooie resultaten uit:
+
 ![feedback]
 
 * Het is niet duidelijk dat er over de images gehoverd kan worden
