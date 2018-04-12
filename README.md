@@ -6,6 +6,7 @@ De gebruiker wil door een overzicht van foto's scrollen en info lezen, en een fo
 De basis functionaliteiten staan allemaal vermeld in de case.
 
 ## Eerste ontwerp
+![homebefore]
 Ik begon met na te denken aan een layout. Voor desktop passen er mooi drie foto's naast elkaar.
 Ik heb gekozen om willekeurige foto's te gebruiken van de website picsum.photos.
 Toen alles geplaats was in drie rijen begon ik na te denken over de optie voor de slideshow.
@@ -21,6 +22,7 @@ Ik heb mijn website met Chana en Servin getest en er kwamen een paar mooie resul
 
 
 ## Tweede ontwerp
+![homeafter]
 In het tweede ontwerp heb ik al het bovenstaande feedback geprobeerd te verwerken. Het verschil tussen mijn eerste ontwerp en mijn tweede ontwerp is best wel een verschil.
 Het tweede ontwerp is ook veel sterker en beter dan wat ik eerst had gemaakt.
 
@@ -31,3 +33,7 @@ neer te zetten waar de foto langzaam overgaat op slideshow.
 * 11 Strong visual hierarchies work best - De titel is het eerste wat opvalt. Dit vertelt meteen waar de website overgaat. Daarna vallen de foto's op en als laatst de tekst.
 In de slideshow is de focus gestopt in de foto, daarna de tekst en daarna pas het icoon om het af te sluiten.
 * 13 Highlight, don't determine, with color - Ik gebruik geen kleur om highlights aan te tonen.
+
+[homebefore]: homebefore.png
+[homeafter]: homeafter.png
+
