@@ -45,5 +45,5 @@ In de slideshow is de focus gestopt in de foto, daarna de tekst en daarna pas he
 [homeafter]: homeafter.jpg
 [slidebefore]: slidebefore.jpg
 [slideafter]: slideafter.jpg
-[feedbackafter]: feedback.jpg
+[feedback]: feedback.jpg
 
