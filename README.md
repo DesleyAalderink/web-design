@@ -60,8 +60,11 @@ Deze voorbeelden moeten toegankelijk en leuk gemaakt worden voor Larissa, een pe
 Ik wil inspelen op de screenreader en het haar persoonlijke willen laten "voelen".
 
 ### Content Inventarisatie
+Ik heb op post its uitgeschreven wat de content op mijn website is. Ik heb de titels neergeschreven en ook aangegeven voor welke beperking dit belangrijk is. De reden hiervoor is dat ik dan mooi kan filteren op datgeen.
 
 ### User Scenario’s
+Voor de user scenario's heb ik nagedacht over wie de gebruiker is, wat de gebruiker wilt op mijn site en hoe ze dat gaan bereiken.
+
 *	Larissa kan door de website tabben zonder enig probleem, zodat zij alle content succesvol kan verkennen.
 *	Larissa kan door middel van de design principe voorbeelden een goed beeld krijgen wat er bedoeld wordt, zodat zij alle principes succesvol leert.
 *	Larissa moet gemakkelijk en snel door de content kunnen navigeren, zodat zij onnodig veel moet tabben om haar doel te bereiken.
