@@ -52,5 +52,21 @@ In de slideshow is de focus gestopt in de foto, daarna de tekst en daarna pas he
 
 ________________________________________________________________________________________________________________________________________
 
-test
+# Assignment 2 - Larissa + CMD student
+
+## De case
+Ik ga een website maken die de 19 design principes uitlegd met bijbehorende voorbeelden. 
+Deze voorbeelden moeten toegankelijk en leuk gemaakt worden voor Larissa, een persoon die blind is.
+Ik wil inspelen op de screenreader en het haar persoonlijke willen laten "voelen".
+
+### Content Inventarisatie
+
+### User Scenario’s
+*	Larissa kan door de website tabben zonder enig probleem, zodat zij alle content succesvol kan verkennen.
+*	Larissa kan door middel van de design principe voorbeelden een goed beeld krijgen wat er bedoeld wordt, zodat zij alle principes succesvol leert.
+*	Larissa moet gemakkelijk en snel door de content kunnen navigeren, zodat zij onnodig veel moet tabben om haar doel te bereiken.
+*	De CMD leerling moet door middel van goede voorbeelden een juiste impressie krijgen van de 19 principes, zodat de leerling succesvol kan leren voor de HCI toets.
+
+
+
 
