@@ -37,7 +37,7 @@ h1{
   width: 33%;
   display: inline-block;
   cursor: pointer;
-    transition: all 1s ease;
+  transition: all 1s ease;
 }
 
 .image-wrap:hover{

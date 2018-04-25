@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="nl" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>19 principes van user interface design</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+  </head>
+  <body>
+    <h1>De 19 principes van user interface design</h1>
+    <div id="wrapper">
+      <p>
+          Het doel van de website is het uitleggen van alle 19 principes van user interface design, bedacht door Joshua Porter.
+          Bij elk principe zal er uitgelegd worden wat ermee bedoeld wordt plus een bijbehorend voorbeeld.
+      </p>
+        <article>
+          <h2>#1 clarity</h2>
+          <p>
+              Je website/applicatie moet vanzelf sprekend zijn. Alles moet voorzich zelf spreken,
+              zonder enige verwarring. Duidelijkheid wekt vertrouwen en leidt tot verder gebruik. Honderd heldere schermen hebben de voorkeur boven een enkele rommelige.
+          </p>
+          <h3>Clarity voorbeeld</h3>
+          <p>
+            Een element moet duidelijk zijn voor de gebruiker. Het moet duidelijk zijn dat het volgende voorbeeld een button is dat naar de volgende principe gaat.
+            Als dit niet zo is, dan is de clarity niet duidelijk.
+            <button>Naar de volgende sectie</button>
+          </p>
+        </article>
+        <article>
+            <h2>#2 Interfaces bestaan om interactie toe te staan</h2>
+            <p>
+              Interfaces zijn geen monumenten voor zichzelf. Interfaces doen hun werk en hun effectiviteit kan worden gemeten.
+              Ze zijn echter niet alleen utilitair. De beste interfaces kunnen onze relatie met de wereld inspireren, oproepen, mystificeren en intensifiëren.
+            </p>
+            <h3>Interactie voorbeeld</h3>
+            <p>
+              <form>
+                <label for="voornaam">Voornaam</label>
+                <input type="text" name="voornaam" placeholder="Je voornaam..">
+
+                <label for="achternaam">Achternaam</label>
+                <input type="text" name="achternaam" placeholder="Je achternaam..">
+              </form>
+            </p>
+        </article>
+        <article>
+          <h2>#3 Hou ten alle tijden aandacht</h2>
+          <p>
+              Je website/applicatie moet vanzelf sprekend zijn. Alles moet voorzich zelf spreken,
+              zonder enige verwarring. Duidelijkheid wekt vertrouwen en leidt tot verder gebruik. Honderd heldere schermen hebben de voorkeur boven een enkele rommelige.
+          </p>
+          <h3>Aandacht voorbeeld</h3>
+          <p id="change">
+            Tijdens het lezen van *er verschijnt een popup* bijvoorbeeld een tekst moet er *tekst
+          </p>
+          <p id="newtext" class="none">
+            test
+          </p>
+        </article>
+        <article>
+          <h2>#4 Hou gebruikers in controle</h2>
+            <p>
+              Houd gebruikers onder controle door regelmatig de status van het systeem te bereiken,
+              oorzakelijk verband te beschrijven (als u dit doet) en door inzicht te geven in wat u bij elke beurt kunt verwachten.
+              Maak je geen zorgen over het voor de hand liggende ... voor de hand liggende bijna nooit is.
+            </p>
+          <h3>controle voorbeeld</h3>
+            <ol>
+              <li>
+                Amsterdam
+              </li>
+              <li>
+                Rotterdam
+              </li>
+              <li>
+                Amersfoort
+              </li>
+              <li>
+                Alkmaar
+              </li>
+            </ol>
+            <p>Ik geef een lijstje beschikbaar, zonder enige mogelijkheid om deze te sorteren. De gebruiker heeft geen controle over het lijstje. Als hij/zij dat zou willen.
+               Een mooi voorbeeld is het bestellen van iets op een online website en dat je wilt sorteren op prijs.
+            </p>
+        </article>
+        <article>
+          <h2>#5 directe manipulatie is het beste</h2>
+          <p>
+            Het is gemakkelijk om meer lagen toe te voegen dan nodig is voor een interface, waardoor te veel bewerkte knoppen, chroom, afbeeldingen, opties, voorkeuren,
+            vensters, bijlagen en andere cruft worden gemaakt, zodat we uiteindelijk UI-elementen manipuleren in plaats van wat belangrijk is.
+            In plaats daarvan, streef je naar dat oorspronkelijke doel van directe manipulatie ...
+            ontwerp een interface met zo min mogelijk voetafdruk, waarbij zoveel mogelijk natuurlijke menselijke gebaren worden herkend.
+          </p>
+          <h3>Directe manipulatie voorbeeld</h3>
+          <p>
+            Directe manipulatie kan op veel manieren gebeuren. Het slepen van een document naar een andere map, angry birds en inzoomen op een foto met je mobiel zijn
+            allemaal voorbeelden.
+
+            <div id="d">
+              <div></div>
+            </div>
+          </p>
+      </article>
+      <article>
+        <h2>#6 één primaire actie per scherm</h2>
+        <p>
+          Elk scherm dat we ontwerpen zou een enkele actie van echte waarde moeten ondersteunen voor de persoon die het gebruikt.
+          Dit maakt het eenvoudiger om te leren, gemakkelijker te gebruiken en gemakkelijker om toe te voegen of om op te bouwen wanneer dat nodig is.
+          Schermen die twee of meer primaire acties ondersteunen, worden snel verwarrend.
+        </p>
+        <h3>één primarie actie voorbeeld</h3>
+          <form>
+            <label for="voornaam">Voornaam</label>
+            <input type="text" name="voornaam" placeholder="Je voornaam..">
+
+            <label for="achternaam">Achternaam</label>
+            <input type="text" name="achternaam" placeholder="Je achternaam..">
+            <button id="verstuur">verstuur</button>           <button id="annuleer">annuleer</button>
+          </form>
+    </article>
+    <article>
+      <h2>#7 Houdt secundaire acties secundair</h2>
+      <p>
+        Schermen met een enkele primaire actie kunnen meerdere secundaire acties hebben, maar ze moeten secundair blijven!
+        De reden waarom uw artikel bestaat, is niet dat mensen het op Twitter kunnen delen ...
+        het bestaat voor mensen om het te lezen en te begrijpen.
+        Houd secundaire acties secundair door ze visueel lichter te maken of te laten zien nadat de primaire actie is bereikt.
+      </p>
+      <h3>Secundaire actie voorbeeld</h3>
+      <p>
+        Zoals hierboven vermeld staat kan het lezen van een artikel een primaire actie zijn en het delen via Twitter een secundaire.
+      </p>
+      <a class="twitter-share-button"
+        href="https://twitter.com/intent/tweet?text=Secundaire%20actie"
+        data-size="large"  data-hashtags="uxprinciples,webdevelopment" data-via="DesleyAalderink" data-related="twitterapi,twitter">
+      Tweet</a>
+    </article>
+    <article>
+      <h2>#8 Geef een natuurlijke volgende stap</h2>
+      <p>
+        Er zijn maar heel weinig interacties bedoeld als het laatste, dus doordachte ontwerp een volgende stap voor elke interactie die een persoon
+        met uw interface heeft. Anticipeer op wat de volgende interactie zou moeten zijn en ontwerp om dit te ondersteunen.
+        Net zoals we willen in menselijke gesprekken, bieden we een opening voor verdere interactie.
+        Laat een persoon niet hangen omdat ze hebben gedaan wat je wilt dat ze doen ... geef ze een natuurlijke volgende stap die hen helpt hun doelen te bereiken.
+      </p>
+      <h3>Natuurlijke volgende stap voorbeeld</h3>
+      <p>
+        Om effe voor de verandering buiten het web te betreden, stelt u het volgende door. Als u een afspraak wilt maken bij de dokter word je vaak opgevangen door
+        een automatische opgaven. Hier wordt er gevraagd voor wat u een afspraak wilt maken. Elke toets verwijst u door naar de desbetreffende persoon die u wilt bereiken.
+        Dit is een natuurlijke stap waar gebeurd wat je verwacht.
+      </p>
+    </article>
+    <article>
+      <h2>#9 Uiterlijk volgt gedrag</h2>
+      <p>
+        Mensen voelen zich het prettigst bij dingen die zich gedragen zoals we verwachten.
+        Andere mensen, dieren, objecten, software.
+        Wanneer iemand of iets zich consequent gedraagt ​​met onze verwachtingen, hebben we het gevoel dat we er een goede relatie mee hebben.
+        Daartoe moeten ontworpen elementen er uitzien als hoe ze zich gedragen.
+      </p>
+      <h3>Uiterlijk volgt gedrag voorbeeld</h3>
+      <p>
+        
+      </p>
+    </article>
+    </div>
+    <script src="js/javascript.js"></script>
+  </body>
+</html>
