@@ -10,6 +10,10 @@ function changenewtext(){
   newtext.classList.toggle('none')
 }
 
+function bgchange(){
+  document.querySelector('body').classList.toggle('bg')
+}
+
 setInterval(function() {
   toggletext()
 }, 3000);
@@ -44,3 +48,7 @@ window.twttr = (function(d, s, id) {
 
   return t;
 }(document, "script", "twitter-wjs"));
+
+document.querySelectorAll('button')[3].addEventListener("click", function(){
+  bgchange();
+})
