@@ -14,7 +14,7 @@ body{
 } */
 
 body p{
-  font-size: 2em;
+  font-size: 1vw;
   padding-top: 15em;
   padding-bottom: 15em;
 }
@@ -22,6 +22,7 @@ body p{
 body h1{
   text-align: center;
   padding-bottom: 0;
+  font-size: 10vw;
 }
 
 
@@ -53,7 +54,6 @@ article{
 } */
 
 article p{
-  text-align: center;
   width: 55%;
   margin: 0 auto;
   font-size: 1.5em;
@@ -67,14 +67,16 @@ h1{
 }
 
 article h2{
-  font-size: 8em;
+  font-size: 7vw;
   text-align: center;
   margin-bottom: 0.5em;
+  line-height: 1;
 }
 
 article h3{
-  font-size: 5em;
+  font-size: 4vw;
   text-align: center;
+  margin-bottom: 0.3em;
 }
 
 button{
@@ -185,6 +187,16 @@ ol{
   display: inline-block;
 }
 
+#verstuur:hover{
+  background-color: #FFFFFF;
+  color: #0e83cd;
+}
+
+#verstuur:focus{
+  background-color: #FFFFFF;
+  color: #0e83cd;
+}
+
 #annuleer{
   background-color: gray;
   border: none;
@@ -192,8 +204,25 @@ ol{
   display: inline-block;
 }
 
+#annuleer:hover{
+  background-color: #FFFFFF;
+  border: none;
+  color: gray;
+  display: inline-block;
+}
+
+#annuleer:focus{
+  background-color: #FFFFFF;
+  color: gray;
+}
+
 .twitter-share-button{
   padding-top: 2em;
   margin: 0 auto;
   display: block;
+}
+
+a{
+  display: block;
+  color: #0e83cd;
 }
