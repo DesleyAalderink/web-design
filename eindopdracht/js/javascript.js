@@ -1,20 +1,17 @@
 var change = document.getElementById('change')
 var newtext = document.getElementById('newtext')
 
-function changetext(){
-  change.classList.add('none')
+function toggletext(){
+  change.classList.toggle('none')
+  newtext.classList.toggle('none')
 }
 
 function changenewtext(){
-  newtext.classList.remove('none')
+  newtext.classList.toggle('none')
 }
 
-setTimeout(function() {
-  changenewtext(newtext)
-}, 3000);
-
-setTimeout(function() {
-  changetext(change)
+setInterval(function() {
+  toggletext()
 }, 3000);
 
 document.querySelector('button').addEventListener("click", function() {
