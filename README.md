@@ -98,3 +98,6 @@ De link naar de video van de test: https://www.youtube.com/watch?v=MxIa2-7YalA&f
 [c1]: ci1.jpg
 [c2]: ci2.jpg
 [c3]: ci3.jpg
+
+### Conclusie
+Het was een spannende intense week. Het concept dat ik in ogen had was wel pittig, maar leuk om te doen. Helaas heb ik niet alle principes erin kunnen verwerken. Ik heb geleerd hoe screenreaders door tekst heen lezen en hoe je het semantisch kan oplossen als het niet werkt zoals het hoort. Larissa was ook een fijn persoon om mee te werken en gaf hele goeie feedback. Zij was ook erg blij met wat wij allemaal gemaakt hadden. De lessen van dit vak zal ik zeker meenemen naar mijn volgende ontwerpen. De hond was ook super cool en die zal ik wel missen.
