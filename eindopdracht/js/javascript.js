@@ -14,6 +14,15 @@ function bgchange(){
   document.querySelector('body').classList.toggle('bg')
 }
 
+function focus(){
+  console.log(document.querySelectorAll('summary')[0])
+  document.querySelectorAll('summary')[0].focus();
+}
+
+document.querySelectorAll('button')[0].addEventListener("click", function(){
+  focus();
+})
+
 setInterval(function() {
   toggletext()
 }, 3000);
