@@ -62,7 +62,9 @@ Ik wil inspelen op de screenreader en het haar persoonlijke willen laten "voelen
 ### Content Inventarisatie
 Ik heb op post its uitgeschreven wat de content op mijn website is. Ik heb de titels neergeschreven en ook aangegeven voor welke beperking dit belangrijk is. De reden hiervoor is dat ik dan mooi kan filteren op datgeen.
 
-
+![c1]
+![c2]
+![c3]
 
 ### User Scenario’s
 Voor de user scenario's heb ik nagedacht over wie de gebruiker is, wat de gebruiker wilt op mijn site en hoe ze dat gaan bereiken.
@@ -92,3 +94,7 @@ Helaas kwam the worst-case-scenario uit en verliep de test niet super soepel. Ze
 De feedback punten heb ik verwerkt en de website werkt nu zoals ik wil. Het liefst zou ik nog een keer willen testen met Larissa om hier zeker van te zijn.
 
 De link naar de video van de test: https://www.youtube.com/watch?v=MxIa2-7YalA&feature=youtu.be
+
+[c1]: c1.jpg
+[c2]: c2.jpg
+[c3]: c3.jpg
