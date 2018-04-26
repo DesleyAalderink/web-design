@@ -95,6 +95,6 @@ De feedback punten heb ik verwerkt en de website werkt nu zoals ik wil. Het lief
 
 De link naar de video van de test: https://www.youtube.com/watch?v=MxIa2-7YalA&feature=youtu.be
 
-[c1]: c1.jpg
-[c2]: c2.jpg
-[c3]: c3.jpg
+[c1]: ci1.jpg
+[c2]: ci2.jpg
+[c3]: ci3.jpg
