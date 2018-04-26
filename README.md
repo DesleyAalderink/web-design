@@ -70,15 +70,22 @@ Ik heb op post its uitgeschreven wat de content op mijn website is. Ik heb de ti
 Voor de user scenario's heb ik nagedacht over wie de gebruiker is, wat de gebruiker wilt op mijn site en hoe ze dat gaan bereiken.
 
 *	Larissa kan door de website tabben zonder enig probleem, zodat zij alle content succesvol kan verkennen.
-*	Larissa kan door middel van de design principe voorbeelden een goed beeld krijgen wat er bedoeld wordt, zodat zij alle principes succesvol leert.
+* Larissa moet de content in een logische volgorde kunnen begrijpen door middel van haar screenreader, zodat zij weet waar de principes over gaan.
+*	Larissa kan door middel van de design principe voorbeelden een goed beeld krijgen wat er bedoeld wordt, zodat zij alle principes succesvol begrijpt en leert.
 *	Larissa moet gemakkelijk en snel door de content kunnen navigeren, zodat zij onnodig veel moet tabben om haar doel te bereiken.
+* Larissa moet de principes zo snappen dat zij het weer aan mij kan uitleggen.
 *	De CMD leerling moet door middel van goede voorbeelden een juiste impressie krijgen van de principes, zodat de leerling succesvol kan leren voor de HCI toets.
+* De CMD leerling moet de voorbeelden zo kunnen begrijpen, dat hij/zij zelf nog meer voorbeelden erbij kunnen bedenken.
 
 ### De site
 De website bestaat uit een grootte titel tekst die meteen zegt wat de website inhoudt. Met scrollen kom je op een klein stukje tekst die uitlegd wat de website inhoudt. Als de gebruiker zou tabben dan wordt de intro geskipped en komen ze meteen op de eerste principe. Deze principes zijn opgeslagen in een "details" tagg. Deze kan worden opengeklapt en de content wordt dan ingeladen. De Screenreader lees wat er in de "details" staat en door midden van pijltjes of een tab komt de gebruiker op het voorbeeld. De website werkt verder op deze volgorde. Bij elk voorbeeld is een interactieve voorbeeld gebruikt, zodat zowel visuele mensen als mensen met slechte visie (tot zover de principe toegankelijk is) kunnen de voorbeelden ervaren.
   
 De link: https://desleyaalderink.github.io/web-design/eindopdracht/
 
+### Principes toegepast in mijn website
+* Strong visual hierarchies work best - Ik probeer met grote teksten en visuele elementen de aandacht te trekken. Hoe groter, hoe belangrijker.
+* Progressive disclosure - Ik laat de gebruikers alleen de titel zien van elke principe. Als zij behoefte hebben om hier meer over te leren dan kunnen zij meer informatie erover ophalen.
+* One primary action per screen - Op de homepage kan de gebruiker alleen de details open klikken. Per artikel valt er ook maar 1 primaire actie uit te voeren.
 
 ### Testen met Larissa
 Aangezien ik zelf niet met een screenreader overweg kan was dit een unique ervaring. Zelf heb ik geen idee hoe Larissa de screenreader gebruikt en heb daardoor ook geen idee of mijn content op de website succesvol wordt opgelezen en belangrijker; duidelijk is.
