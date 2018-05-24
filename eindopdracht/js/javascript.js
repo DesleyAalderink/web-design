@@ -27,18 +27,6 @@ setInterval(function() {
   toggletext()
 }, 3000);
 
-document.querySelector('button').addEventListener("click", function() {
-  window.scrollTo(0,0)
-})
-
-document.querySelectorAll('button')[1].addEventListener("click", function(e){
-  e.preventDefault()
-})
-
-document.querySelectorAll('button')[2].addEventListener("click", function(e){
-  e.preventDefault()
-})
-
 // Twitter //
 
 window.twttr = (function(d, s, id) {
