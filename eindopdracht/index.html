@@ -4,11 +4,13 @@
     <meta charset="utf-8">
     <title>19 principes van user interface design</title>
     <link rel="stylesheet" type="text/css" href="css/style.css">
+    <!-- <link rel="stylesheet" type="text/css" href="css/revenge.css"> -->
     <link href="https://fonts.googleapis.com/css?family=PT+Serif" rel="stylesheet">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
   </head>
   <body>
-    <h1>De 19 principes van user interface design</h1>
+    <a name="top"></a>
+    <h1>Uitleg over de 19 principes van user interface design</h1>
       <p>
           Het doel van de website is het uitleggen van alle 19 principes van user interface design, bedacht door Joshua Porter.
           Bij elk principe zal er uitgelegd worden wat ermee bedoeld wordt plus een bijbehorend voorbeeld. Sommige voorbeelden zijn helaas niet voor toegankelijkheid
@@ -25,8 +27,42 @@
           <p>
             Een element moet duidelijk zijn voor de gebruiker. Het moet duidelijk zijn dat het volgende voorbeeld een button is dat naar de volgende principe gaat.
             Als dit niet zo is, dan is de clarity niet duidelijk.
-            <button>Naar de volgende sectie</button>
+            <a href="#top">Naar de volgende sectie</a>
           </p>
+          <p>
+            Goede voorbeelden van clarity zijn te vinden in de onderstaande voorbeelden. Deze zijn gemaakt door experts in het vakgebied.
+            Klik op de afbeelding of tekst om door te gaan naar het online voorbeeld.
+          </p>
+          <ul>
+            <li>
+              <a href="https://yoeripasmans.github.io/web-design/opdracht1/src/" target="_blank">
+                <img src="img/clarityvb1.jpg" alt="Een project van Yoeri Pasmans waarin hij Clarity toepast in zijn ontwerp"  />
+                <p>
+                  "Hierbij gaat het om dat de gebruiker ziet wat de interface doet en hoe hij of zij het moet gebruiken.
+                  De gebruiker ziet in het overzicht gelijk dat een foto gallerij is.
+                  Daarbij kan je niet gelijk zien dat je de foto kan vergroten.
+                  Dit heb ik duidelijk proberen te maken door het hoveren over een afbeelding een zoom in icoon weer te geven.
+                  Zo is het duidelijker voor de gebruiker dat de afbeelding klikbaar is en er een grotere versie van de foto getoont gaat worden."
+                </p>
+              </a>
+            </li>
+            <li>
+              <a href="https://nielsfs.github.io/web-design/index.html" target="_blank">
+                <img src="img/clarityvb4.png" alt="Een project van Niels Schopman waarin hij Clarity toepast in zijn ontwerp"  />
+                <p>
+                  "Een schone interface dat zorgt dat de gebruiker focussed op de content. De pagina is ontworpen om niet rommelig te zijn."
+                </p>
+              </a>
+            </li>
+            <li>
+              <a href="https://sam-guliker.github.io/web-design/" target="_blank">
+                <img src="img/clarityvb3.png" alt="Een project van Sam Guliker waarin hij Clarity toepast in zijn ontwerp"  />
+                <p>
+                  "Het is belangrijk om een consistente pagina te hebben die de gebruiker helpt met het begrijpen wat er op de pagina gebeurd."
+                </p>
+              </a>
+            </li>
+          </ul>
         </article>
       </details>
       <details>
@@ -37,15 +73,17 @@
               Ze zijn echter niet alleen utilitair. De beste interfaces kunnen onze relatie met de wereld inspireren, oproepen, mystificeren en intensifiëren.
             </p>
             <h3>Interactie voorbeeld</h3>
-            <p>
-              <form>
+              <form action="">
                 <label for="voornaam">Voornaam</label>
-                <input type="text" name="voornaam" placeholder="Je voornaam..">
+                <input type="text" name="voornaam" placeholder="Je voornaam.." required>
 
                 <label for="achternaam">Achternaam</label>
-                <input type="text" name="achternaam" placeholder="Je achternaam..">
+                <input type="text" name="achternaam" placeholder="Je achternaam.." required>
+
+                <input id="customcheck" type="checkbox">
+                <label for="customcheck"></label>
+                <label for="ik ben een mens">Ik ben een mens</label>
               </form>
-            </p>
         </article>
       </details>
       <details>
@@ -56,11 +94,11 @@
               zonder enige verwarring. Duidelijkheid wekt vertrouwen en leidt tot verder gebruik. Honderd heldere schermen hebben de voorkeur boven een enkele rommelige.
           </p>
           <h3>Aandacht voorbeeld</h3>
-          <p id="change">
+          <p>
             Tijdens het lezen van een tekst moet er niks gebeuren wat voor afleiding kan zorgen. Een goed voorbeeld is het omwisselen van tekst. Dit komt vaak voor
             bij een slider.
           </p>
-          <p id="newtext" class="none">
+          <p class="none">
             De tekst is net veranderd. Dit is een goed voorbeeld van hoe je de aandacht niet behoudt. De aandacht is nu volledig weg en het enige wat er nog overblijft
             is verwarring.
           </p>
@@ -107,11 +145,11 @@
           <p>
             Directe manipulatie kan op veel manieren gebeuren. Het slepen van een document naar een andere map, angry birds en inzoomen op een foto met je mobiel zijn
             allemaal voorbeelden.
-
-            <div id="d">
-              <div></div>
-            </div>
           </p>
+
+          <div>
+            <div></div>
+          </div>
       </article>
       </details>
       <details>
@@ -123,15 +161,48 @@
             Schermen die twee of meer primaire acties ondersteunen, worden snel verwarrend.
           </p>
           <h3>één primaire actie voorbeeld</h3>
-            <form>
+            <form action="">
               <label for="voornaam">Voornaam</label>
-              <input type="text" name="voornaam" placeholder="Je voornaam..">
+              <input type="text" name="voornaam" placeholder="Je voornaam.." required>
 
               <label for="achternaam">Achternaam</label>
-              <input type="text" name="achternaam" placeholder="Je achternaam..">
-              <button id="annuleer">annuleer</button>
-              <button id="verstuur">verstuur</button>
+              <input type="text" name="achternaam" placeholder="Je achternaam.." required>
+              <button disabled type="reset">annuleer</button>
+              <button disabled type="submit">verstuur</button>
             </form>
+            <p>
+              Andere goede voorbeelden van één primaire actie per scherm zijn te vinden in de onderstaande voorbeelden. Deze zijn gemaakt door experts in het vakgebied.
+              Klik op de afbeelding of tekst om door te gaan naar het online voorbeeld.
+            </p>
+            <ul>
+              <li>
+                <a href="https://robinfrugte97.github.io/web-design/" target="_blank">
+                  <img src="img/op1.png" alt="Een project van Robin Frugte waarin hij één primaire actie per scherm toepast in zijn ontwerp"  />
+                  <p>
+                    "Ik heb geprobeerd om alle features in mijn site zo veel mogelijk uit elkaar te halen.
+                    Ik heb een apparte state voor de landings pagina, filteren, zoeken en het bekijken van video's."
+                  </p>
+                </a>
+              </li>
+              <li>
+                <a href="https://jamerrone.github.io/web-design/project-1/dist/index.html" target="_blank">
+                  <img src="img/op2.jpg" alt="Een project van James Perrone Jefferies waarin hij één primaire actie per scherm toepast in zijn ontwerp"  />
+                  <p>
+                    "Ik over het algemeen maar twee schermen, elk scherm heeft zijn eigen primaire en secundaire acties.
+                    Voorbeeld, op de homepage/overview pagina, gebruikers kunnen meerder afbeeldingen zien en erdoor heen scrollen,
+                    wanneer er op geklikt wordt er van de desbetreffende afbeelding informatie getoont in een apparte detail view."
+                  </p>
+                </a>
+              </li>
+              <li>
+                <a href="https://sam-guliker.github.io/web-design/" target="_blank">
+                  <img src="img/clarityvb3.png" alt="Een project van Sam Guliker waarin hij één primaire actie per scherm toepast in zijn ontwerp"  />
+                  <p>
+                    "Elk scherm heeft een primaire arctie, dit is een simpele manier om te begrijpen wat er gebeurd"
+                  </p>
+                </a>
+              </li>
+            </ul>
       </article>
       </details>
       <details>
@@ -186,9 +257,23 @@
           <p>
             Het gebruik van een goed HTML structuur is hier een goed voorbeeld bij. Als een gebruiker door een website heen wilt navigeren moet de volgorde wel gaan zoals zij
             verwachtte. Je moet niet in één tab bij de footer uitkomen.
-
-            <button id="bgchange">Deze knop doet het niet</button>
           </p>
+          <button type="button">Deze knop doet het niet</button>
+          <p>
+            Andere goede voorbeelden van Uiterlijke volgt gedrag zijn te vinden in de onderstaande voorbeelden. Deze zijn gemaakt door experts in het vakgebied.
+            Klik op de afbeelding of tekst om door te gaan naar het online voorbeeld.
+          </p>
+          <ul>
+            <li>
+              <a href="https://robinfrugte97.github.io/web-design/" target="_blank">
+                <img src="img/op1.png" alt="Een project van Robin Frugte waarin hij één primaire actie per scherm toepast in zijn ontwerp"  />
+                <p>
+                  "Ik heb geprobeerd om alle features in mijn site zo veel mogelijk uit elkaar te halen.
+                  Ik heb een apparte state voor de landings pagina, filteren, zoeken en het bekijken van video's."
+                </p>
+              </a>
+            </li>
+          </ul>
         </article>
       </details>
     <script src="js/javascript.js"></script>
