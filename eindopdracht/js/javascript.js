@@ -46,6 +46,6 @@ window.twttr = (function(d, s, id) {
   return t;
 }(document, "script", "twitter-wjs"));
 
-document.querySelectorAll('button')[3].addEventListener("click", function(){
+document.getElementById('veranderbg').addEventListener("click", function(){
   bgchange();
 })
