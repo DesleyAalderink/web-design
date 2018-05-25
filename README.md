@@ -52,7 +52,7 @@ In de slideshow is de focus gestopt in de foto, daarna de tekst en daarna pas he
 
 ________________________________________________________________________________________________________________________________________
 
-# Assignment 2 - Larissa + CMD student
+# Assignment 2 - Larissa (Persoon die blind is) + Albert (CMD student)
 
 ## De case
 Ik ga een website maken die de 19 design principes uitlegd met bijbehorende voorbeelden. 
@@ -66,7 +66,15 @@ Ik heb op post its uitgeschreven wat de content op mijn website is. Ik heb de ti
 ![c2]
 ![c3]
 
-### User Scenario’s
+### User Scenario's
+Voor de user scenario's heb ik nagedacht over wie de gebruiker is, wat de gebruiker wilt op mijn site en hoe ze dat gaan bereiken.
+
+**Larissa**: Larissa is een 24 jarige paralympisch kampioen en accessibility expert. Ze is blind, maar is actief op het internet. Ze gebruikt ook vaak haar social media vanwege haar sport. Ze heeft een UX minor gevolgt en is ook erg geïnteresseerd in UX in het algemeen. arissa gebruikt een Windows screenreader om te navigeren op het internet. De screenreader die ze nu heeft kan alleen de Nederlandse taal en geen Engels. Aangezien Larissa erg geïnteresseerd is in UX wil ze meer weten over de 19 principes van user interface design.
+
+**Albert**: Albert is een 20 jarige net afgestudeerde student van het Media College Amsterdam. Hij zit in het propedeuse jaar van de opleiding CMD en heeft het vak Human Computer Interaction niet gehaald. Op het tentamen zag hij dat hij de 19 principes van user interface design niet helemaal snapte. Hij miste goede/slechte voorbeelden. Albert wilt een meer uitgebreide uitleg over de principes.
+
+
+#### User Scenario Larissa
 Voor de user scenario's heb ik nagedacht over wie de gebruiker is, wat de gebruiker wilt op mijn site en hoe ze dat gaan bereiken.
 
 *	Larissa kan door de website tabben zonder enig probleem, zodat zij alle content succesvol kan verkennen.
@@ -74,8 +82,10 @@ Voor de user scenario's heb ik nagedacht over wie de gebruiker is, wat de gebrui
 *	Larissa kan door middel van de design principe voorbeelden een goed beeld krijgen wat er bedoeld wordt, zodat zij alle principes succesvol begrijpt en leert.
 *	Larissa moet gemakkelijk en snel door de content kunnen navigeren, zodat zij onnodig veel moet tabben om haar doel te bereiken.
 * Larissa moet de principes zo snappen dat zij het weer aan mij kan uitleggen.
-*	De CMD leerling moet door middel van goede voorbeelden een juiste impressie krijgen van de principes, zodat de leerling succesvol kan leren voor de HCI toets.
-* De CMD leerling moet de voorbeelden zo kunnen begrijpen, dat hij/zij zelf nog meer voorbeelden erbij kunnen bedenken.
+
+#### User Scenario Albert
+*	Albert moet door middel van goede voorbeelden een juiste impressie krijgen van de principes, zodat de leerling succesvol kan leren voor de HCI toets.
+* Albert moet de voorbeelden zo kunnen begrijpen, dat hij/zij zelf nog meer voorbeelden erbij kunnen bedenken.
 
 ### De site
 De website bestaat uit een grootte titel tekst die meteen zegt wat de website inhoudt. Met scrollen kom je op een klein stukje tekst die uitlegd wat de website inhoudt. Als de gebruiker zou tabben dan wordt de intro geskipped en komen ze meteen op de eerste principe. Deze principes zijn opgeslagen in een "details" tagg. Deze kan worden opengeklapt en de content wordt dan ingeladen. De Screenreader lees wat er in de "details" staat en door midden van pijltjes of een tab komt de gebruiker op het voorbeeld. De website werkt verder op deze volgorde. Bij elk voorbeeld is een interactieve voorbeeld gebruikt, zodat zowel visuele mensen als mensen met slechte visie (tot zover de principe toegankelijk is) kunnen de voorbeelden ervaren.
@@ -108,3 +118,15 @@ De link naar de video van de test: https://www.youtube.com/watch?v=MxIa2-7YalA&f
 
 ### Conclusie
 Het was een spannende intense week. Het concept dat ik in ogen had was wel pittig, maar leuk om te doen. Helaas heb ik niet alle principes erin kunnen verwerken. Ik heb geleerd hoe screenreaders door tekst heen lezen en hoe je het semantisch kan oplossen als het niet werkt zoals het hoort. Larissa was ook een fijn persoon om mee te werken en gaf hele goeie feedback. Zij was ook erg blij met wat wij allemaal gemaakt hadden. De lessen van dit vak zal ik zeker meenemen naar mijn volgende ontwerpen. De hond was ook super cool en die zal ik wel missen.
+
+### Herkansing
+De volgende punten heb ik gedaan voor de herkansing:
+
+* De focus/hover zo aangepast dat het duidelijk is waar de gebruiker zich bevindt.
+* De user stories bijgewerkt. Ik ben iets meer indept ingegaan op Larissa en heb de CMD student Albert toegevoegd.
+* Goede voorbeelden toegevoegd van de studenten van de minor Webdevelopment.
+* Wat meer gefocussed op Responsive.
+* De titel aangepast, zodat je weet waar de website overgaat.
+
+Het werk van de studenten van de minor was lastig, omdat er zo goed als niemand meer een werkende link heeft naar hun bestand. 
+Ook zag ik heel vaak dat sommige studenten de principes niet vermeld hadden van wat ze hebben toegepast. Het werk heb ik ook alleen kunnen toevoegen op 3 van de 9 principes die ik heb. Ik heb wel aangetoont hoe het eruit moet komen te zien.
