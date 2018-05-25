@@ -1,5 +1,5 @@
-var change = document.querySelectorAll('p')[6]
-var newtext = document.querySelectorAll('p')[7]
+var change = document.getElementById('change')
+var newtext = document.getElementById('newtext')
 
 function toggletext(){
   change.classList.toggle('none')
